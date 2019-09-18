@@ -1,0 +1,14 @@
+F:\Projects\HealthCheckAPISample\HealthCheckAPISample\bin\Debug\netcoreapp2.2\HealthCheckAPISample.deps.json
+F:\Projects\HealthCheckAPISample\HealthCheckAPISample\bin\Debug\netcoreapp2.2\HealthCheckAPISample.runtimeconfig.json
+F:\Projects\HealthCheckAPISample\HealthCheckAPISample\bin\Debug\netcoreapp2.2\HealthCheckAPISample.runtimeconfig.dev.json
+F:\Projects\HealthCheckAPISample\HealthCheckAPISample\bin\Debug\netcoreapp2.2\HealthCheckAPISample.dll
+F:\Projects\HealthCheckAPISample\HealthCheckAPISample\bin\Debug\netcoreapp2.2\HealthCheckAPISample.pdb
+F:\Projects\HealthCheckAPISample\HealthCheckAPISample\obj\Debug\netcoreapp2.2\HealthCheckAPISample.csprojAssemblyReference.cache
+F:\Projects\HealthCheckAPISample\HealthCheckAPISample\obj\Debug\netcoreapp2.2\HealthCheckAPISample.csproj.CoreCompileInputs.cache
+F:\Projects\HealthCheckAPISample\HealthCheckAPISample\obj\Debug\netcoreapp2.2\HealthCheckAPISample.RazorAssemblyInfo.cache
+F:\Projects\HealthCheckAPISample\HealthCheckAPISample\obj\Debug\netcoreapp2.2\HealthCheckAPISample.RazorAssemblyInfo.cs
+F:\Projects\HealthCheckAPISample\HealthCheckAPISample\obj\Debug\netcoreapp2.2\HealthCheckAPISample.AssemblyInfoInputs.cache
+F:\Projects\HealthCheckAPISample\HealthCheckAPISample\obj\Debug\netcoreapp2.2\HealthCheckAPISample.AssemblyInfo.cs
+F:\Projects\HealthCheckAPISample\HealthCheckAPISample\obj\Debug\netcoreapp2.2\HealthCheckAPISample.RazorTargetAssemblyInfo.cache
+F:\Projects\HealthCheckAPISample\HealthCheckAPISample\obj\Debug\netcoreapp2.2\HealthCheckAPISample.dll
+F:\Projects\HealthCheckAPISample\HealthCheckAPISample\obj\Debug\netcoreapp2.2\HealthCheckAPISample.pdb
