@@ -3,8 +3,7 @@ Implementing Health Checks API is necessary for all application which applying M
 
 ASP.NET Core 2.2 provides us a set of built-in health check features. We can use them via middleware. 
 
-You can see original article on Medium here: 
+You can see original article on Medium here: https://link.medium.com/L3aY0dCV6Z
 
 # Note 
 You can find all health checks libraries which are being used in this project here: https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks
-
