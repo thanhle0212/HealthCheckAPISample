@@ -8,4 +8,3 @@ You can see original article on Medium here: https://link.medium.com/L3aY0dCV6Z
 # Note 
 You can find all health checks libraries which are being used in this project here: https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks
 
-Please buy me a coffee if this project is helpful : https://www.buymeacoffee.com/BXDlhMy
